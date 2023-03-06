@@ -1,24 +1,25 @@
 ### Hi there Matheus Mei 👋
 
+<img src="https://giffiles.alphacoders.com/146/14623.gif" min-width="400px" max-width="400px" width="300px" align="right" alt="Estus Flask">
 
 
 **About me:**
+
 <p align="left">
- <li>👨‍🎓 Production Engineering graduated</li>
+<li>👨‍🎓 Production Engineering graduated</li>
 </p>
+
 <p align="left">
- <li>🏠 Living in Curitiba - PR, Brazil</li>
+<li>🏠 Living in Curitiba - PR, Brazil</li>
 </p>
+
 <p align="left">
 <li>🚀 Working as Flutter Mobile Developer on @<a href ="https://www.linkedin.com/company/snowman-labs/mycompany/)">SnowmanLabs</a></li>
 </p>
-<p align="left">
-📚 Learning tests and TDD with dart/Flutter
-</p>
-<div>
-<img src="https://giphy.com/stickers/pixel-pokemon-pokmon-YRDuN32tiOevbMTNMK" alt="Gengar gif" />
 
-</div>
+<p align="left">
+<li>📚 Learning tests and TDD with dart/Flutter</li>
+</p>
 
 
 ### Technology
