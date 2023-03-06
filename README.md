@@ -17,8 +17,8 @@
 
 <div>
           
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" alt="Dart Logo" height="80" width="80" style="display:inline-block; margin-right:10px;""/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter Logo" height="80" width="80" style="display:inline-block;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" alt="Dart Logo" height="60" width="60" style="display:inline-block; margin-right:10px;"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter Logo" height="60" width="60" style="display:inline-block;"/>
           
 </div>
 
