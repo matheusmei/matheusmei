@@ -25,8 +25,9 @@
 ### Technology
 
 <div>
-          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" alt="Dart Logo" height="50" width="50" style="display:inline-block; margin-right:20px;"/> 
+display: flex;
+gap: 40px;        
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" alt="Dart Logo" height="50" width="50" style="display:inline-block"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter Logo" height="40" width="40" style="display:inline-block;"/>
           
 </div>
