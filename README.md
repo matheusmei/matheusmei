@@ -13,7 +13,7 @@
 - 📚 Learning tests and TDD with dart/Flutter
 
 <div>
-<img src="https://media.giphy.com/media/8L0Pky6C83SzkzU55a/giphy.gif" alt="Gengar gif" />
+<img src="https://giphy.com/stickers/pixel-pokemon-pokmon-YRDuN32tiOevbMTNMK" alt="Gengar gif" />
 
 </div>
 
