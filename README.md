@@ -3,16 +3,18 @@
 
 
 **About me:**
-
-- 👨‍🎓 Production Engineering graduated
-
-- 🏠 Living in Curitiba - PR, Brazil
-
 <p align="left">
--  <li>🚀 Working as Flutter Mobile Developer on @<a haref ="https://www.linkedin.com/company/snowman-labs/mycompany/">SnowmanLabs</a></li>
+ <li>👨‍🎓 Production Engineering graduated</li>
 </p>
-- 📚 Learning tests and TDD with dart/Flutter
-
+<p align="left">
+ <li>🏠 Living in Curitiba - PR, Brazil</li>
+</p>
+<p align="left">
+<li>🚀 Working as Flutter Mobile Developer on @<a href ="https://www.linkedin.com/company/snowman-labs/mycompany/)">SnowmanLabs</a></li>
+</p>
+<p align="left">
+📚 Learning tests and TDD with dart/Flutter
+</p>
 <div>
 <img src="https://giphy.com/stickers/pixel-pokemon-pokmon-YRDuN32tiOevbMTNMK" alt="Gengar gif" />
 
