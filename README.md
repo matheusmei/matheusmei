@@ -2,7 +2,7 @@
 
 
 
-**About me:"**
+**About me:**
 
 - 👨‍🎓 Production Engineering graduated
 
@@ -12,9 +12,10 @@
 
 - 📚 Learning tests and TDD with dart/Flutter
 
-<img src="https://tenor.com/pt-BR/view/pokemon-wink-gengar-gif-20793239" alt="Gengar gif" />
-<div class="tenor-gif-embed" data-postid="20793239" data-share-method="host" data-aspect-ratio="1.14286" data-width="100%"><a href="https://tenor.com/view/pokemon-wink-gengar-gif-20793239">Pokemon Wink Sticker</a>from <a href="https://tenor.com/search/pokemon-stickers">Pokemon Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div>
+<img src="https://media.giphy.com/media/8L0Pky6C83SzkzU55a/giphy.gif" alt="Gengar gif" />
 
+</div>
 
 
 ### Technology
