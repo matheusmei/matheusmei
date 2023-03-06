@@ -12,6 +12,9 @@
 
 - 📚 Learning tests and TDD with dart/Flutter
 
+<img src="https://tenor.com/pt-BR/view/pokemon-wink-gengar-gif-20793239" alt="Gengar gif" />
+
+
 
 ### Technology
 
