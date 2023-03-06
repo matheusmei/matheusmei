@@ -18,18 +18,18 @@
 <div>
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" alt="Dart Logo" height="50" width="50" style="display:inline-block; margin-right:20px;"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter Logo" height="50" width="50" style="display:inline-block;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter Logo" height="40" width="40" style="display:inline-block;"/>
           
 </div>
 
 ### Tools
 
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="Git Logo" height="50" width="50" style="display:inline-block; margin-right:20px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" alt="GitLab Logo" height="50" width="50" style="display:inline-block; margin-right:20px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode Logo" height="50" width="50" style="display:inline-block; margin-right:20px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="FireBase Logo" height="50" width="50" style="display:inline-block; margin-right:20px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma Logo" height="50" width="50" style="display:inline-block; margin-right:20px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="Git Logo" height="40" width="40" style="display:inline-block; margin-right:20px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" alt="GitLab Logo" height="40" width="40" style="display:inline-block; margin-right:20px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode Logo" height="40" width="40" style="display:inline-block; margin-right:20px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="FireBase Logo" height="40" width="40" style="display:inline-block; margin-right:20px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma Logo" height="40" width="40" style="display:inline-block; margin-right:20px;"/>
 </div>        
 
 ## Keep in touch!
