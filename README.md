@@ -8,8 +8,9 @@
 
 - 🏠 Living in Curitiba - PR, Brazil
 
-- 🚀 Working as Flutter Mobile Developer on @SnowmanLabs
-
+<p align="left">
+-  <li>🚀 Working as Flutter Mobile Developer on @<a haref ="https://www.linkedin.com/company/snowman-labs/mycompany/">SnowmanLabs</a></li>
+</p>
 - 📚 Learning tests and TDD with dart/Flutter
 
 <div>
