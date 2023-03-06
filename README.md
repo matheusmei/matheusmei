@@ -1,6 +1,6 @@
 ### Hi there Matheus Mei 👋
 
-<img src="https://media2.giphy.com/media/YRDuN32tiOevbMTNMK/giphy_s.gif?cid=ecf05e47t7zdqioaqedrlftirkgwqspkc7cws0l6mxb13657&rid=giphy_s.gif&ct=s" min-width="400px" max-width="400px" width="300px" align="right" alt="Estus Flask">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWQ3NmEyYWY0NjU4YzIwYmY3NjRhMTgxOTliOWY2YjJjZGZlNmU0OCZjdD1z/YRDuN32tiOevbMTNMK/giphy.gif" min-width="400px" max-width="400px" width="300px" align="right" alt="Estus Flask">
 
 
 **About me:**
